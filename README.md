@@ -2,10 +2,11 @@ Bridge: Operational Technology (OT) & Information Technology (IT) Convergence
 
 Overview
 This repository contains the documentation and reference architecture for an end-to-end IIoT (Industrial Internet of Things) solution. The central objective is to convert raw data from field sensors into business intelligence assets, ensuring cybersecurity and data governance in compliance with global standards.
+
 System Architecture
 The solution is divided into four main processing layers:
 
-![Diagrama IIoT de sensores cromatograficos](docs\Diagrama IIoT de sensores cromatograficos.jpg)
+![Diagrama de Arquitetura IIoT](docs/Diagrama%20IIoT%20de%20sensores%20cromatograficos.jpg)
 
 1. Shop Floor Layer (OT)
 Acquisition: Data capture via Chromatographic Sensors (FID/TCD) and other industrial devices.
